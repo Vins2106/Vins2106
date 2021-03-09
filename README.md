@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with discord bot
 - 💬 Ask me about discord bot & html
 - 📫 How to reach me: join my support server
-- ⚡ Fun fact: my age is 14 years old
+- ⚡ Fun fact: im 15 years old
