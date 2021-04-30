@@ -8,12 +8,7 @@
  </p>
 
 ```
-im Vincent from Vins Developer, im making Discord Bot, Website with html/css/js
-```
-```
-i will help you on code if you have problems, you can join my support server, or visit my website
-support server: https://discord.gg/M3x2rqzngZ
-website: https://vinsdev.glitch.me/
+Nothing to show here.
 ```
 
 Here are some ideas to get you started:
