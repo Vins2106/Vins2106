@@ -10,13 +10,4 @@
 ```
 Nothing to show here.
 ```
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on discord bot & website
-- 🌱 I’m currently learning javascript & html
-- 👯 I’m looking to collaborate on discord bot
-- 🤔 I’m looking for help with discord bot
-- 💬 Ask me about discord bot & html
-- 📫 How to reach me: join my support server
-- ⚡ Fun fact: im 15 years old
+just a plain of human.
