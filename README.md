@@ -5,7 +5,7 @@
 </p>
 
 <h3>About me</h3>
-<p>My name is Vincent saerang (you can call be Vins). 15 Years old :D, im from Indonesia 🇮🇩 and im work alone</p>
+<p>My name is Vincent saerang (you can call me Vins). 15 Years old :D, im from Indonesia 🇮🇩 and im work alone</p>
 
 <h3>Skills</h3>
 javascript, html, css, bootstrap, jquery 
