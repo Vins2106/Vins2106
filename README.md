@@ -1,4 +1,17 @@
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/69247128/134379861-560ce35d-3ea2-4853-ba2e-5237fd02ca01.png">
+  <br>
+  <h1>
+    scroll down to get plain text readme
+    </h1>
+</p>
+  
+  <br>
+  <br>
+  <br>
+  <br>
+  
+<p align="center">
   <img src="https://cdn.discordapp.com/attachments/832129800914206722/877739488783241216/ezgif.com-gif-maker-1.gif" alt="banner">
   <h1>Vins 2106</h1>
   <p>Youtuber / Programmer / Student</p>    
