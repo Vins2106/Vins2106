@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=Vins2106" alt="profile views" align="center" loading="lazy" />
+<img src="https://komarev.com/ghpvc/?username=Vins2106" alt="profile views" align="center" loading="lazy" /> [`Use this template`]
 
 # I'm Vincent Saerang 👋
 - web developer
@@ -74,3 +74,4 @@ im from Indonesia, manado. i’ve work as web developer for 1 year and work in B
 [`Bee3`]:                 https://github.com/Bee3-Team/Bee3
 [`Zhat`]:                 https://github.com/Vins2106/zhat.cf
 [`Repository's`]:         https://github.com/Vins2106?tab=repositories
+[`Use this template`]:    https://github.com/Vins2106/Vins2106/generate
