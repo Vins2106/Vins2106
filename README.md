@@ -67,7 +67,7 @@ im from Indonesia, manado. i’ve work as web developer for 1 year and work in B
 [`Chrome`]:               https://www.google.co.id/chrome/
 [`Glitch`]:               https://glitch.com/
 [`Replit`]:               https://replit.com
-[`Portfolio`]:            https://vins2106.github.io
+[`Portfolio`]:            https://vinsdev.xyz
 [`Instagram`]:            https://instagram.com/Vins2106
 [`Twitter`]:              https://twitter.com/Vins2106_
 [`vins25165@gmail.com`]:  vins25165@gmail.com
