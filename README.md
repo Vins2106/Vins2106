@@ -22,6 +22,8 @@ im from Indonesia, manado. i’ve work as web developer for 1 year and work in B
 | [`MongoDB`]     |  |
 | [`Socket.io`]   | | 
 | [`Node.js`]     | |
+| [`React.js`]  | |
+| [`Next.Js`] | |
 
 # Projects
 | Name | Description |
@@ -59,6 +61,8 @@ im from Indonesia, manado. i’ve work as web developer for 1 year and work in B
 [`Jquery`]:               https://jquery.com/
 [`Express.js`]:           https://expressjs.com/
 [`MongoDB`]:              https://www.mongodb.com/
+[`React.js`]:             https://reactjs.org/
+[`Next.js`]:              https://nextjs.org
 [`Socket.io`]:            https://socket.io/
 [`Node.js`]:              https://nodejs.org/
 [`Figma`]:                https://figma.com/
