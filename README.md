@@ -6,7 +6,7 @@
 - bug enjoyer 🤦
 
 # About me
-im from Indonesia, manado. i’ve work as web developer for 1 year and work in Bellshade as Web Team and HTML-CSS Team. my full name is Vincent Devon Saerang, 14 years old
+im from Indonesia, manado. i’ve work as web developer for 1 year. my full name is Vincent Devon Saerang, 14 years old
 - start coding in `2020`
 - my first program using [`JavaScript`]
 
@@ -24,6 +24,7 @@ im from Indonesia, manado. i’ve work as web developer for 1 year and work in B
 | [`Node.js`]     | |
 | [`React.js`]  | |
 | [`Next.Js`] | |
+| [`TailwindCSS`] | |
 
 # Projects
 | Name | Description |
